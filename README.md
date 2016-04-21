@@ -46,7 +46,7 @@
 
 
 ##Gradle
-
+ compile('org.chzz:tablayout:1.0.0')
 
 
 ##Attributes
